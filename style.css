@@ -194,7 +194,9 @@ htm{
 #about {
     display: flex;
     justify-content: space-between;
-
+    background-image:
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.897), rgba(240, 240, 240, 0.918)),
+    url('assets/social-bg.png');
 }
 
 
